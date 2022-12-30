@@ -1,0 +1,14 @@
+C:\Users\pavel\source\repos\CosmosDBproject\CosmosGettingStartedTutorial\bin\Debug\netcoreapp2.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\pavel\source\repos\CosmosDBproject\CosmosGettingStartedTutorial\bin\Debug\netcoreapp2.1\Cosmos.CRTCompat.dll
+C:\Users\pavel\source\repos\CosmosDBproject\CosmosGettingStartedTutorial\bin\Debug\netcoreapp2.1\CosmosDBproject.dll.config
+C:\Users\pavel\source\repos\CosmosDBproject\CosmosGettingStartedTutorial\bin\Debug\netcoreapp2.1\CosmosDBproject.deps.json
+C:\Users\pavel\source\repos\CosmosDBproject\CosmosGettingStartedTutorial\bin\Debug\netcoreapp2.1\CosmosDBproject.runtimeconfig.json
+C:\Users\pavel\source\repos\CosmosDBproject\CosmosGettingStartedTutorial\bin\Debug\netcoreapp2.1\CosmosDBproject.runtimeconfig.dev.json
+C:\Users\pavel\source\repos\CosmosDBproject\CosmosGettingStartedTutorial\bin\Debug\netcoreapp2.1\CosmosDBproject.dll
+C:\Users\pavel\source\repos\CosmosDBproject\CosmosGettingStartedTutorial\bin\Debug\netcoreapp2.1\CosmosDBproject.pdb
+C:\Users\pavel\source\repos\CosmosDBproject\CosmosGettingStartedTutorial\obj\Debug\netcoreapp2.1\CosmosDBproject.csproj.AssemblyReference.cache
+C:\Users\pavel\source\repos\CosmosDBproject\CosmosGettingStartedTutorial\obj\Debug\netcoreapp2.1\CosmosDBproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\source\repos\CosmosDBproject\CosmosGettingStartedTutorial\obj\Debug\netcoreapp2.1\CosmosDBproject.csproj.CoreCompileInputs.cache
+C:\Users\pavel\source\repos\CosmosDBproject\CosmosGettingStartedTutorial\obj\Debug\netcoreapp2.1\CosmosDBproject.dll
+C:\Users\pavel\source\repos\CosmosDBproject\CosmosGettingStartedTutorial\obj\Debug\netcoreapp2.1\CosmosDBproject.pdb
+C:\Users\pavel\source\repos\CosmosDBproject\CosmosGettingStartedTutorial\obj\Debug\netcoreapp2.1\CosmosDBproject.genruntimeconfig.cache
